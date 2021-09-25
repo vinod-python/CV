@@ -1,5 +1,6 @@
 body {
     background-color: #eaf6f6;
+
 }
 
 h1,h3{
@@ -16,4 +17,18 @@ hr{
 
 img{
     border-radius: 100%;
+}
+
+
+li{
+    font-family: 'Times New Roman', serif;
+    font-size: 15px;
+    font-style: normal;
+    text-align: left;
+    width: 70%;
+}
+
+.reponsibilities{
+    text-align: left;
+    padding-left: 20%;
 }
